@@ -1,6 +1,6 @@
 # MK6-Linefollower
 #### Siguelineas del equipo supermecánico
-![pcb](https://github.com/SuperMecanicoTeam/MK6-Linefollower/blob/master/Hardware/pcb.jpg)
+
 
 ## Harwdare
 #### Electrónica
@@ -20,3 +20,4 @@
 * Plastic ball
 
 ![Under_construction](https://cdn.pixabay.com/photo/2017/06/16/07/26/under-construction-2408061_960_720.png)
+
