@@ -1,6 +1,6 @@
 # MK6-Linefollower
 #### Siguelineas del equipo supermecánico
-![pcb](https://github.com/SuperMecanicoTeam/MK6-Linefollower\Hardware\pcb.jpg)
+![pcb](https://github.com/SuperMecanicoTeam/MK6-Linefollower/blob/master/Hardware/pcb.jpg)
 
 ## Harwdare
 #### Electrónica
