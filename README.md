@@ -1,6 +1,9 @@
 # MK6-Linefollower
 #### Siguelineas del equipo supermecánico
+![Robot](https://github.com/SuperMecanicoTeam/MK6-Linefollower/blob/master/Images/pcb.jpg)
 
+## Video
+* 3º Velocistas OSHWDem 2017 https://youtu.be/UoUuA1ByPb0?t=757
 
 ## Harwdare
 #### Electrónica
@@ -20,4 +23,4 @@
 * Plastic ball
 
 #### 3D printed printed__parts
-![printed__parts](https://github.com/SuperMecanicoTeam/MK6-Linefollower/blob/master/Hardware/printed__parts.png)
+![printed__parts](https://github.com/SuperMecanicoTeam/MK6-Linefollower/blob/master/Images/printed__parts.png)
