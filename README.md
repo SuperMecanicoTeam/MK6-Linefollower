@@ -1,6 +1,6 @@
 # MK6-Linefollower
 #### Siguelineas del equipo supermecánico
-![Robot](https://github.com/SuperMecanicoTeam/MK6-Linefollower/blob/master/Images/pcb.jpg)
+![Robot](https://github.com/SuperMecanicoTeam/MK6-Linefollower/blob/master/Images/Mk6.png)
 
 ## Video
 * 3º Velocistas OSHWDem 2017 https://youtu.be/UoUuA1ByPb0?t=757
