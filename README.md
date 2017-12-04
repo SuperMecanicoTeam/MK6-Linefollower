@@ -5,7 +5,7 @@
 ## Video
 * 3º Velocistas OSHWDem 2017 https://youtu.be/UoUuA1ByPb0?t=757
 
-## Harwdare
+
 #### Electrónica
 * [Pololu QTR-8RC Reflectance Sensor Array](https://www.pololu.com/product/961)
 * 7.4V 2S LiPo Battery
@@ -16,7 +16,7 @@
   * Step_up to 12V
   * Step_down 5v
 
-#### Robot
+#### Hardware
 * [Solarbotics 2Wi](https://www.pololu.com/product/1127)
 * 3D printed chassis
 * 12v 1000rpm N20 motors
